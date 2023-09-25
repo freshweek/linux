@@ -1,0 +1,1 @@
+cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts_kfifo/kbd_kfifo.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts_kfifo/kbd_kfifo.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts_kfifo/kbd_kfifo.mod

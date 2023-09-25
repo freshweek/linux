@@ -1,0 +1,1 @@
+cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/8-kdb/modules.order := {   echo /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/8-kdb/hello_kdb.ko; :; } | awk '!x[$$0]++' - > /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/8-kdb/modules.order

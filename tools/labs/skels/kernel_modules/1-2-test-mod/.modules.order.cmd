@@ -1,0 +1,1 @@
+cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/modules.order := {   echo /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/hello_mod.ko; :; } | awk '!x[$$0]++' - > /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/1-2-test-mod/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/3-4-5-deferred/kernel/deferred.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/3-4-5-deferred/kernel/deferred.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/3-4-5-deferred/kernel/deferred.mod

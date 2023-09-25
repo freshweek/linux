@@ -1,0 +1,1 @@
+cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/9-dyndbg/modules.order := {   echo /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/9-dyndbg/dyndbg.ko; :; } | awk '!x[$$0]++' - > /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/9-dyndbg/modules.order

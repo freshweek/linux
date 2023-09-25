@@ -19,7 +19,10 @@ if  [ -e qemu.mon ]; then
   fi
   mkdir $TEMPDIR
   do_copy $TEMPDIR
-  scp -q -r -O -o StrictHostKeyChecking=no $TEMPDIR/* root@$ip:.
+  # scp -q -r -O -o StrictHostKeyChecking=no $TEMPDIR/* root@$ip:.
+  echo "copy done"
+  echo "ip: ${ip}"
+  scp -q -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -r $TEMPDIR/* root@$ip:.
   rm -rf $TEMPDIR
 else
   mkdir $TEMPDIR

@@ -1,0 +1,1 @@
+cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/1-2-timer/timer.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/1-2-timer/timer.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/1-2-timer/timer.mod
