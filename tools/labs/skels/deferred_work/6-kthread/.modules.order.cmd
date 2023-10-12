@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/6-kthread/modules.order := {   echo /home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/6-kthread/kthread.ko; :; } | awk '!x[$$0]++' - > /home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/6-kthread/modules.order

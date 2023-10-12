@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/kbd.ko := ld -r -m elf_i386 --build-id=sha1  -T scripts/module.lds -o /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/kbd.ko /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/kbd.o /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/kbd.mod.o;  true

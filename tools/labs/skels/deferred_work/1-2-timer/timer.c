@@ -20,8 +20,10 @@ static struct timer_list timer;
 static void timer_handler(struct timer_list *tl)
 {
 	/* TODO 1: print a message */
+	pr_info("timeout\n");
 
 	/* TODO 2: rechedule timer */
+	mod_timer(&timer, TIMER_TIMEOUT*HZ + jiffies);
 }
 
 static int __init timer_init(void)

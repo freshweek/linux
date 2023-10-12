@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/modules.order := {   echo /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/kbd.ko; :; } | awk '!x[$$0]++' - > /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/modules.order

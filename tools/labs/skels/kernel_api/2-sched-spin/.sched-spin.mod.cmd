@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_api/2-sched-spin/sched-spin.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_api/2-sched-spin/sched-spin.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_api/2-sched-spin/sched-spin.mod

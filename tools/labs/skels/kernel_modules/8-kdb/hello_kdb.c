@@ -87,14 +87,14 @@ static int hello_proc_open(struct inode *inode, struct  file *file) {
 	return single_open(file, hello_proc_show, NULL);
 }
 
-static int edit_write(struct file *file, const char *buffer,
+static ssize_t edit_write(struct file *file, const char *buffer,
 		size_t count, loff_t *data)
 {
 	kdb_write_address += 1;
 	return count;
 }
 
-static int bug_write(struct file *file, const char *buffer,
+static ssize_t bug_write(struct file *file, const char *buffer,
 		size_t count, loff_t *data)
 {
 	dummy_func1();

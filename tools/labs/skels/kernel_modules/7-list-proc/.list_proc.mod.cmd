@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/7-list-proc/list_proc.mod

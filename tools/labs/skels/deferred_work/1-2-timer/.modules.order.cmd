@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/1-2-timer/modules.order := {   echo /home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/1-2-timer/timer.ko; :; } | awk '!x[$$0]++' - > /home/wenjie/Linux/lab/linux/tools/labs/skels/./deferred_work/1-2-timer/modules.order

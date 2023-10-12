@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./device_drivers/extra/char-driver-lin/modul.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./device_drivers/extra/char-driver-lin/modul.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./device_drivers/extra/char-driver-lin/modul.mod

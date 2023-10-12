@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/9-dyndbg/dyndbg.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/9-dyndbg/dyndbg.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./kernel_modules/9-dyndbg/dyndbg.mod

@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/kbd.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/kbd.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./interrupts/kbd.mod

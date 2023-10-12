@@ -1,1 +1,0 @@
-cmd_/home/wenjie/Linux/lab/linux/tools/labs/skels/./device_drivers/kernel/so2_cdev.mod := { echo  /home/wenjie/Linux/lab/linux/tools/labs/skels/./device_drivers/kernel/so2_cdev.o;  echo; } > /home/wenjie/Linux/lab/linux/tools/labs/skels/./device_drivers/kernel/so2_cdev.mod
